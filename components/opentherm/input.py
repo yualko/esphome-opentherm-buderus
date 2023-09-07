@@ -9,6 +9,7 @@ CONF_min_value = "min_value"
 CONF_max_value = "max_value"
 CONF_auto_min_value = "auto_min_value"
 CONF_auto_max_value = "auto_max_value"
+CONF_step = "step"
 
 OpenthermInput = generate.opentherm_ns.class_("OpenthermInput")
 
